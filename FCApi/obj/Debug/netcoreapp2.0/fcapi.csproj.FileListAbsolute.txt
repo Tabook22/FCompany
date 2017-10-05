@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\bin\Debug\netcoreapp2.0\fcapi.deps.json
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\bin\Debug\netcoreapp2.0\fcapi.runtimeconfig.json
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\bin\Debug\netcoreapp2.0\fcapi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\bin\Debug\netcoreapp2.0\fcapi.dll
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\bin\Debug\netcoreapp2.0\fcapi.pdb
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\obj\Debug\netcoreapp2.0\fcapi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\obj\Debug\netcoreapp2.0\fcapi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\obj\Debug\netcoreapp2.0\fcapi.AssemblyInfo.cs
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\obj\Debug\netcoreapp2.0\fcapi.dll
+C:\Users\HP\Desktop\GitHup_Files_2017\FCO2017\fcapi\obj\Debug\netcoreapp2.0\fcapi.pdb
