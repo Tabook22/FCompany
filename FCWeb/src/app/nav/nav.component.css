@@ -1,0 +1,18 @@
+.navbar{background-color:#c41335;border:none;border-radius:0;}
+.nav>li>a{
+  color:#fff;
+}
+
+.top-nav{
+background-color:#fff;
+margin:0;
+height:10rem;
+border:none;
+}
+
+.site-log , .site-title{
+  padding-top:2px;
+  height:87px;
+}
+
+
