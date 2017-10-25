@@ -12,6 +12,8 @@ import { HomeComponent } from './home/home.component';
 import { ContactComponent } from './contact/contact.component';
 import { AboutComponent } from './about/about.component';
 import { ServicesComponent } from './services/services.component';
+import { GLocationComponent } from './g-location/g-location.component';
+import { GmapComponent } from './gmap/gmap.component';
 
 
 @NgModule({
@@ -28,7 +30,9 @@ import { ServicesComponent } from './services/services.component';
     ServicesComponent,
     AboutComponent,
     ContactComponent,
-    ServicesComponent
+    ServicesComponent,
+    GLocationComponent,
+    GmapComponent
   ],
   imports: [
     BrowserModule,
